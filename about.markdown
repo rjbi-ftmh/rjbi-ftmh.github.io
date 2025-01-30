@@ -23,13 +23,18 @@ I am a Computer Science graduate specializing in Artificial Intelligence from Am
     - Alzahra University, Department of Mathematics and Computer Science
 
 ### **Work Experiences**  
-- **Research Assistant** *(Apr 2024 – Present)*
-    - Working on fine-tuning Large Language Models (LLMs) and improving ASR systems.
-    - Sharif University of Technology <br>
+- **Research Assistant** Sharif University of Technology *(Apr 2024 – Present)*
+    - Working on fine-tuning Large Language Models (LLMs)
+    - Improving ASR systems
+    <br>
 - **Data Scientist** – ParsPack *(May 2024 – Present)*  
-  - Setting up a ticket response system with LLMs and RAG methods and automating the abuse management system with prompt engineering. <br>
+  - Setting up a ticket response system with LLMs and RAG methods
+  - Automating the abuse management system with prompt engineering
+  - <br>
 - **Data Scientist** – Metodata *(Jan 2022 – Sep 2023)*  
-  - Led social media analysis projects, developed machine learning pipelines, and built models for deployment in production servers. <br>
+  - Led social media analysis projects
+  - Developed ML and NLP pipelines for different projects
+  - 
 - **Teacher Assistant** – Amirkabir University of Technology *(Various Semesters)*  
   - Assisted in **Data Structures & Algorithms** and **Machine Learning** courses, supporting students with practical assignments and algorithmic problem-solving.  
 
@@ -44,11 +49,11 @@ I am a Computer Science graduate specializing in Artificial Intelligence from Am
 - Analyzing social media influence <br>
 
 #### **Expreienced** 
-    - Python (Pandas, TensorFlow، PyTorch, Scikit-learn, Matplotlib, Seaborn, NumPy)
-    - LangChain, LangGraph, SQL, Git, Airflow, Redash, Gephi, Scrum, Jira <br>
+- Python (Pandas, TensorFlow، PyTorch, Scikit-learn, Matplotlib, Seaborn, NumPy)
+- LangChain, LangGraph, SQL, Git, Airflow, Redash, Gephi, Scrum, Jira <br>
     
 #### **Familiar**
-    - Java, R, LLamaIndex, Tableau, Docker, Spark, Linux
+- Java, R, LLamaIndex, Tableau, Docker, Spark, Linux
 
 ### **Languages**
 - **Persian** Native
