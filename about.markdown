@@ -6,7 +6,7 @@ date: 2024-02-11
 comments: false
 ---
 
-<center> Hello everyone; My name is Fatemeh Rajabi and this is my Website! <br> You can find detailed stories and my journey for every field trip. <br> For the best user experience, please visit my site on your PC. </center>
+<center> <b> Hello everyone; My name is Fatemeh Rajabi and this is my Website! <br> You can find detailed stories and my journey for every field trip. <br> For the best user experience, please visit my site on your PC. </b> </center>
 
 ## **Summary**  
 
@@ -17,6 +17,7 @@ I am a Computer Science graduate specializing in Artificial Intelligence from Am
 - **Master of Science**-*(2021 - 2023)*
     - Computer Science, Artificial Intelligence
     - Amirkabir University of Technology, Department of Mathematics and Computer Science
+
 
 
 - **Bachelor of Science**-*(2017 - 2021)*
@@ -30,6 +31,7 @@ I am a Computer Science graduate specializing in Artificial Intelligence from Am
     - Automating the abuse management system with prompt engineering
 
 
+
 - **Data Scientist** – Metodata *(Jan 2022 – Sep 2023)*  
     - Led social media analysis projects
     - Developed ML and NLP pipelines for different projects
@@ -41,9 +43,11 @@ I am a Computer Science graduate specializing in Artificial Intelligence from Am
     - Improving ASR systems
 
 
+
 - **Teacher Assistant** – Amirkabir University of Technology *(Oct 2022 - Jan 2023)*
     - Data Structures & Algorithms Course
     - Machine Learning courses
+
 
 
 - **Research Assistant** - NLPIC *(Dec 2021 - Oct 2023)*
