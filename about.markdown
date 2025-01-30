@@ -6,7 +6,7 @@ date: 2024-02-11
 comments: false
 ---
 
-Hello everyone; My name is Fatemeh Rajabi and this is my Website! <br> You can find detailed stories and my journey for every field trip. <br> For the best user experience, please visit my site on your PC.
+<center> Hello everyone; My name is Fatemeh Rajabi and this is my Website! <br> You can find detailed stories and my journey for every field trip. <br> For the best user experience, please visit my site on your PC. <\center>
 
 ### **Summary**  
 
@@ -17,8 +17,7 @@ I am a Computer Science graduate specializing in Artificial Intelligence from Am
 - **Master of Science**
     - Computer Science (Artificial Intelligence)
     - Amirkabir University of Technology (2021 - 2023)  
-
-
+<be>
 - **Bachelor of Science**
     - Computer Science 
     - Alzahra University (2017 - 2021)
