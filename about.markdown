@@ -18,6 +18,7 @@ I am a Computer Science graduate specializing in Artificial Intelligence from Am
     - Computer Science, Artificial Intelligence
     - Amirkabir University of Technology, Department of Mathematics and Computer Science
 
+
 - **Bachelor of Science**-*(2017 - 2021)*
     - Computer Science 
     - Alzahra University, Department of Mathematics and Computer Science
@@ -27,6 +28,7 @@ I am a Computer Science graduate specializing in Artificial Intelligence from Am
 - **Data Scientist** – ParsPack *(May 2024 – Present)*  
     - Setting up a ticket response system with LLMs and RAG methods
     - Automating the abuse management system with prompt engineering
+
 
 - **Data Scientist** – Metodata *(Jan 2022 – Sep 2023)*  
     - Led social media analysis projects
@@ -38,14 +40,16 @@ I am a Computer Science graduate specializing in Artificial Intelligence from Am
     - Working on fine-tuning Large Language Models (LLMs)
     - Improving ASR systems
 
+
 - **Teacher Assistant** – Amirkabir University of Technology *(Oct 2022 - Jan 2023)*
     - Data Structures & Algorithms Course
     - Machine Learning courses
- 
+
+
 - **Research Assistant** - NLPIC *(Dec 2021 - Oct 2023)*
     - Studying Information Retrieval and Question Answering systems
 
-### **Skills**
+## **Skills**
 - Deploying ML models
 - Working with NLP algorithms and fine-tuning LLMs
 - Implementing Agents and working with advanced RAG techniques
@@ -55,13 +59,13 @@ I am a Computer Science graduate specializing in Artificial Intelligence from Am
 - Applying Network Analysis and Community Detection methods
 - Analyzing social media influence
 
-#### **Experienced** 
+### **Experienced** 
 - Python (Pandas, TensorFlow، PyTorch, Scikit-learn, Matplotlib, Seaborn, NumPy)
 - LangChain, LangGraph, SQL, Git, Airflow, Redash, Gephi, Scrum, Jira <br>
     
-#### **Familiar**
+### **Familiar**
 - Java, R, LLamaIndex, Tableau, Docker, Spark, Linux
 
-### **Languages**
+## **Languages**
 - **Persian:** Native
 - **English:** Professional working
