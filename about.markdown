@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About the Theme
-tags: [about, FTMHRJB, Fatemeh_Rajabi]
+tags: [about, Fatemeh_Rajabi]
 date: 2024-02-11
 comments: false
 ---
