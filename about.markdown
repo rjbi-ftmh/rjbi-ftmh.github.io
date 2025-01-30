@@ -42,13 +42,14 @@ I am a Computer Science graduate specializing in Artificial Intelligence from Am
 - Conducting Statistical Analysis and Hypothesis Testing
 - Applying Network Analysis and Community Detection methods
 - Analyzing social media influence <br>
-- **Experienced**
+
+#### **Expreienced** 
     - Python (Pandas, TensorFlow، PyTorch, Scikit-learn, Matplotlib, Seaborn, NumPy)
     - LangChain, LangGraph, SQL, Git, Airflow, Redash, Gephi, Scrum, Jira <br>
-- **Familiar**
+    
+#### **Familiar**
     - Java, R, LLamaIndex, Tableau, Docker, Spark, Linux
 
-### **Languages**  
-<br>
+### **Languages**
 - **Persian** Native
 - **English:** Professional working
