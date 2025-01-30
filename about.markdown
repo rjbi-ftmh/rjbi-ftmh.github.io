@@ -17,8 +17,8 @@ I am a Computer Science graduate specializing in Artificial Intelligence from Am
 - **Master of Science**-*(2021 - 2023)*
     - Computer Science, Artificial Intelligence
     - Amirkabir University of Technology, Department of Mathematics and Computer Science
-<br>
 
+<br>
 - **Bachelor of Science**-*(2017 - 2021)*
     - Computer Science 
     - Alzahra University, Department of Mathematics and Computer Science
@@ -29,8 +29,7 @@ I am a Computer Science graduate specializing in Artificial Intelligence from Am
     - Setting up a ticket response system with LLMs and RAG methods
     - Automating the abuse management system with prompt engineering
 
-
-
+<br>
 - **Data Scientist** – Metodata *(Jan 2022 – Sep 2023)*  
     - Led social media analysis projects
     - Developed ML and NLP pipelines for different projects
@@ -41,14 +40,12 @@ I am a Computer Science graduate specializing in Artificial Intelligence from Am
     - Working on fine-tuning Large Language Models (LLMs)
     - Improving ASR systems
 
-
-
+<br>
 - **Teacher Assistant** – Amirkabir University of Technology *(Oct 2022 - Jan 2023)*
     - Data Structures & Algorithms Course
     - Machine Learning courses
 
-
-
+<br>
 - **Research Assistant** - NLPIC *(Dec 2021 - Oct 2023)*
     - Studying Information Retrieval and Question Answering systems
 
