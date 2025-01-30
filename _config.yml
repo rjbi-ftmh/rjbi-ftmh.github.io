@@ -1,5 +1,5 @@
 # Site
-title: Fatemeh Rajabi
+title: "Fatemeh Rajabi"
 bio: "Data Scientist, Research Assistant"
 description: "Graduated in Artificial Intelligence/Computer Science"
 reading_time: true
@@ -8,7 +8,7 @@ logo: "assets/img/logo.png"
 background: "assets/img/moonrise-background.jpg"
 tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
 locale: en_US
-url: https://TolgaTatli.github.io/Moonrise
+url: https://rjbi-ftmh.github.io/
 
 # Jekyll
 permalink: /:title/
@@ -36,20 +36,20 @@ sass:
 #ad-client:
 #ad-slot:
 #bing-verify:
-#email:
-twitter: username
-facebook: username
-github-url: username
+email: rjbi.ftmh@gmail.com
+twitter: rjbi_ftmh
+#facebook: username
+github-url: rjbi-ftmh
 #stackoverflow: 123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin: username
 #xing: username
-instagram: username
+#instagram: username
 #lastfm: username
 #tumblr: username
 #medium: '@username'
 #pinterest: username
 #foursquare: username
-steam: username
+#steam: username
 #dribbble: username
 #youtube: username
 #youtube-channel: channel
