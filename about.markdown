@@ -6,11 +6,17 @@ date: 2024-02-11
 comments: false
 ---
 
+---
+
 <b> Hello everyone; My name is Fatemeh Rajabi and this is my Website! I've included the detailed stories and my journey for every field trip. For the best user experience, please visit my site on your PC. </b>
+
+---
 
 ## **Summary**  
 
 I am a Computer Science graduate specializing in Artificial Intelligence from Amirkabir University of Technology. My expertise lies in Machine Learning, Natural Language Processing, Generative AI, Speech Recognition, Computational Social Science, and Social Media Analysis. I have experience as a Data Scientist, Research Assistant, and Teaching Assistant, working on AI-driven projects, large-scale data analysis, and predictive modeling. Passionate about exploring cutting-edge AI applications, I am highly motivated, organized, and eager to contribute to innovative research and industry projects.  
+
+---
 
 ## **Education**  
 
@@ -22,6 +28,8 @@ I am a Computer Science graduate specializing in Artificial Intelligence from Am
 - Computer Science 
 - Alzahra University, Department of Mathematics and Computer Science
 
+---
+
 ## **Work Experiences**  
 
 #### **Data Scientist** – ParsPack - *(May 2024 – Present)*  
@@ -31,6 +39,8 @@ I am a Computer Science graduate specializing in Artificial Intelligence from Am
 #### **Data Scientist** – Metodata - *(Jan 2022 – Sep 2023)*  
 - Led social media analysis projects
 - Developed ML and NLP pipelines for different projects
+
+---
 
 ## **Academic Experiences** 
 
@@ -45,6 +55,8 @@ I am a Computer Science graduate specializing in Artificial Intelligence from Am
 #### **Research Assistant** - NLPIC - *(Dec 2021 - Oct 2023)*
 - Studying Information Retrieval and Question Answering systems
 
+---
+
 ## **Skills**
 - Deploying ML models
 - Working with NLP algorithms and fine-tuning LLMs
@@ -55,10 +67,14 @@ I am a Computer Science graduate specializing in Artificial Intelligence from Am
 - Applying Network Analysis and Community Detection methods
 - Analyzing social media influence
 
+---
+
 ### **Experienced** 
 - Python (Pandas, TensorFlow، PyTorch, Scikit-learn, Matplotlib, Seaborn, NumPy)
 - LangChain, LangGraph, SQL, Git, Airflow, Redash, Gephi, Scrum, Jira <br>
-    
+
+---
+
 ### **Familiar**
 - Java, R, LLamaIndex, Tableau, Docker, Spark, Linux
 
