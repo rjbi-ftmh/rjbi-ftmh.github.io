@@ -6,7 +6,7 @@ date: 2024-02-11
 comments: false
 ---
 
-<b> Hello everyone; My name is Fatemeh Rajabi and this is my Website! You can find detailed stories and my journey for every field trip. For the best user experience, please visit my site on your PC. </b>
+<b> Hello everyone; My name is Fatemeh Rajabi and this is my Website! I've included the detailed stories and my journey for every field trip. For the best user experience, please visit my site on your PC. </b>
 
 ## **Summary**  
 
