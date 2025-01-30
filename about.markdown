@@ -1,25 +1,13 @@
 ---
 layout: page
 title: About the Theme
-tags: [about, Jekyll, theme, moon]
+tags: [about, FTMHRJB, Fatemeh_Rajabi]
 date: 2024-02-11
 comments: false
 ---
 
-<center><a href="http://TolgaTatli.github.io/Moonrise"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
-
-## Features
-
--   Minimal, you can focus on your content
--   Responsive
--   Disqus integration
--   Syntax highlighting
--   Optional post image
--   Social icons
--   Page for sharing projects
--   Optional background image
--   Simple navigation menu
--   MathJax support
+<center>Hello everyone; My name is Fatemeh Rajabi and this is my Personal Website! 
+You can find detailed stories and my journey for every field trip. For the best user experience, please visit my site on your PC. Enjoy exploring!</center>
 
 ## Preview
 
@@ -29,10 +17,3 @@ https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-87
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of Moon](http://TolgaTatli.github.io/Moonrise) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-
-[Install Moon](https://github.com/TolgaTatli/Moonrise){: .btn}
