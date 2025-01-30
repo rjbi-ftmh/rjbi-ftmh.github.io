@@ -17,7 +17,6 @@ I am a Computer Science graduate specializing in Artificial Intelligence from Am
 - **Master of Science**-*(2021 - 2023)*
     - Computer Science, Artificial Intelligence
     - Amirkabir University of Technology, Department of Mathematics and Computer Science
-
 <br>
 - **Bachelor of Science**-*(2017 - 2021)*
     - Computer Science 
