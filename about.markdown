@@ -6,9 +6,8 @@ date: 2024-02-11
 comments: false
 ---
 
-# **Fatemeh Rajabi**  
 🚀 **AI Researcher | Data Scientist | NLP Specialist**  
-🔗 **[Portfolio Website](https://rjbi-ftmh.github.io/)** | 📩 **Email: rjbi.ftmh@gmail.com** | 📍 **Tehran, Iran**  
+🔗 **[Portfolio Website](https://rjbi-ftmh.github.io/)** | 📩 **Email: rjbi.ftmh@gmail.com**
 
 ---
 
@@ -16,7 +15,7 @@ comments: false
 🎓 **M.Sc. in Computer Science (AI) | Amirkabir University of Technology**  
 💡 **Expertise:** Machine Learning, NLP, Generative AI, Speech Recognition, Computational Social Science  
 🔬 **Experience:** Data Science, Research & Teaching Assistant, AI-driven Projects  
-🔥 **Passionate about** cutting-edge AI applications, large-scale data analysis & predictive modeling  
+🔥 **Passionate about** cutting-edge AI applications, generative AI, large-scale data analysis & predictive modeling
 
 ---
 
@@ -33,7 +32,7 @@ comments: false
 ## **💼 Work Experience**  
 
 ### **🔹 Data Scientist | ParsPack** *(May 2024 – Present)*  
-🚀 Implementing LLMs & RAG for automated ticket response  
+🚀 Implementing an automated ticket answering system with LLMs & RAG
 🤖 Automating abuse management using prompt engineering  
 
 ### **🔹 Data Scientist | Metodata** *(Jan 2022 – Sep 2023)*  
@@ -45,8 +44,8 @@ comments: false
 ## **🎓 Academic Experience**  
 
 ### **🔹 Research Assistant | Sharif University of Technology** *(Apr 2024 – Present)*  
-🛠️ Fine-tuning Large Language Models (LLMs) 
-🎙️ Improving Automated Speech Recognition (ASR) systems  
+🛠️ Fine-tuning Language Models
+🎙️ Improving Automated Speech Recognition (ASR) systems by LLMs
 
 ### **🔹 Teaching Assistant | Amirkabir University of Technology** *(Oct 2022 - Jan 2023)*  
 📚 Assisted in Data Structures & Algorithms and Machine Learning courses  
@@ -59,14 +58,14 @@ comments: false
 ## **🛠 Skills & Tools**  
 
 ### **🌟 Core Skills**  
-✅ ML Model Deployment | ✅ NLP & LLM Fine-tuning | ✅ AI Agent Development  
+✅ ML Model Deployment | ✅ NLP & LLMs | ✅ AI Agent Development  
 ✅ Advanced RAG Techniques | ✅ Prompt Engineering | ✅ Time Series Forecasting  
 ✅ Statistical Analysis & Hypothesis Testing | ✅ Social Media Influence Analysis  
 
 ### **💻 Technical Stack**  
-🔹 **Programming:** Python (Pandas, TensorFlow, PyTorch, Scikit-learn, NumPy)  
+🔹 **Programming:** Python (Pandas, TensorFlow, PyTorch, Scikit-learn, NumPy), SQL
 🔹 **LLMs:** LangChain, LangGraph, LangSmith  
-🔹 **Tools:** SQL, Redash, Apache Airflow, Gephi  
+🔹 **Tools:** Apache Airflow, Redash, Gephi, DBeaver
 🔹 **Version Control & Workflow:** Git, Jira 
 
 ### **📌 Familiar With**  
