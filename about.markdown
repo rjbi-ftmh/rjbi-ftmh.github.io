@@ -6,7 +6,9 @@ date: 2024-02-11
 comments: false
 ---
 
-🚀 **AI Researcher | Data Scientist | NLP Specialist**  
+---
+
+🚀 **AI Researcher **| **Data Scientist** | **NLP Specialist**  
 🔗 **[Portfolio Website](https://rjbi-ftmh.github.io/)** | 📩 **Email: rjbi.ftmh@gmail.com**
 
 ---
@@ -32,7 +34,7 @@ comments: false
 ## **💼 Work Experience**  
 
 ### **🔹 Data Scientist | ParsPack** *(May 2024 – Present)*  
-🚀 Implementing an automated ticket answering system with LLMs & RAG
+🚀 Implementing an automated ticket answering system with LLMs & RAG  
 🤖 Automating abuse management using prompt engineering  
 
 ### **🔹 Data Scientist | Metodata** *(Jan 2022 – Sep 2023)*  
@@ -44,7 +46,7 @@ comments: false
 ## **🎓 Academic Experience**  
 
 ### **🔹 Research Assistant | Sharif University of Technology** *(Apr 2024 – Present)*  
-🛠️ Fine-tuning Language Models
+🛠️ Fine-tuning Language Models  
 🎙️ Improving Automated Speech Recognition (ASR) systems by LLMs
 
 ### **🔹 Teaching Assistant | Amirkabir University of Technology** *(Oct 2022 - Jan 2023)*  
@@ -63,10 +65,10 @@ comments: false
 ✅ Statistical Analysis & Hypothesis Testing | ✅ Social Media Influence Analysis  
 
 ### **💻 Technical Stack**  
-🔹 **Programming:** Python (Pandas, TensorFlow, PyTorch, Scikit-learn, NumPy), SQL
+🔹 **Programming:** Python (Pandas, TensorFlow, PyTorch, Scikit-learn, NumPy), SQL  
 🔹 **LLMs:** LangChain, LangGraph, LangSmith  
-🔹 **Tools:** Apache Airflow, Redash, Gephi, DBeaver
-🔹 **Version Control & Workflow:** Git, Jira 
+🔹 **Tools:** Apache Airflow, Redash, Gephi, DBeaver  
+🔹 **Version Control & Workflow:** Git, Jira  
 
 ### **📌 Familiar With**  
 Java | R | LLamaIndex | Docker | Spark | Linux | Tableau  
