@@ -60,7 +60,7 @@ Studied Information Retrieval & Question Answering Systems
 ## **🛠 Skills & Tools**  
 
 ### **🌟 Core Skills**  
-ML Model Deployment  
+ML Models Deployment  
 NLP & LLMs  
 AI Agent Development  
 Advanced RAG Techniques  
