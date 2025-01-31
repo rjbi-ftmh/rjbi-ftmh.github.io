@@ -6,88 +6,75 @@ date: 2024-02-11
 comments: false
 ---
 
----
-
-<b> Hello everyone; My name is Fatemeh Rajabi and this is my Website! I've included the detailed stories and my journey for every field trip. For the best user experience, please visit my site on your PC. </b>
-
----
-
-## **Summary**  
-
-I am a Computer Science graduate specializing in Artificial Intelligence from Amirkabir University of Technology. My expertise lies in Machine Learning, Natural Language Processing, Generative AI, Speech Recognition, Computational Social Science, and Social Media Analysis. I have experience as a Data Scientist, Research Assistant, and Teaching Assistant, working on AI-driven projects, large-scale data analysis, and predictive modeling. Passionate about exploring cutting-edge AI applications, I am highly motivated, organized, and eager to contribute to innovative research and industry projects.  
+# **Fatemeh Rajabi**  
+🚀 **AI Researcher | Data Scientist | NLP Specialist**  
+🔗 **[Portfolio Website](https://rjbi-ftmh.github.io/)** | 📩 **Email: rjbi.ftmh@gmail.com** | 📍 **Tehran, Iran**  
 
 ---
 
-## **Education**  
-
-#### **Master of Science** - *(2021 - 2023)*
-- Computer Science, Artificial Intelligence
-- Amirkabir University of Technology, Department of Mathematics and Computer Science
-
-#### **Bachelor of Science** - *(2017 - 2021)*
-- Computer Science 
-- Alzahra University, Department of Mathematics and Computer Science
+## **🔹 Summary**  
+🎓 **M.Sc. in Computer Science (AI) | Amirkabir University of Technology**  
+💡 **Expertise:** Machine Learning, NLP, Generative AI, Speech Recognition, Computational Social Science  
+🔬 **Experience:** Data Science, Research & Teaching Assistant, AI-driven Projects  
+🔥 **Passionate about** cutting-edge AI applications, large-scale data analysis & predictive modeling  
 
 ---
 
-## **Work Experiences**  
+## **🎓 Education**  
 
-#### **Data Scientist** – ParsPack - *(May 2024 – Present)*  
-- Setting up a ticket response system with LLMs and RAG methods
-- Automating the abuse management system with prompt engineering
+📌 **Master of Science | Computer Science (AI)**  
+📍 *Amirkabir University of Technology (2021 - 2023)*  
 
-#### **Data Scientist** – Metodata - *(Jan 2022 – Sep 2023)*  
-- Led social media analysis projects
-- Developed ML and NLP pipelines for different projects
+📌 **Bachelor of Science | Computer Science**  
+📍 *Alzahra University (2017 - 2021)*  
 
 ---
 
-## **Academic Experiences** 
+## **💼 Work Experience**  
 
-#### **Research Assistant** - Sharif University of Technology - *(Apr 2024 – Present)*
-- Working on fine-tuning Large Language Models (LLMs)
-- Improving ASR systems
+### **🔹 Data Scientist | ParsPack** *(May 2024 – Present)*  
+🚀 Implementing LLMs & RAG for automated ticket response  
+🤖 Automating abuse management using prompt engineering  
 
-#### **Teacher Assistant** – Amirkabir University of Technology - *(Oct 2022 - Jan 2023)*
-- Data Structures & Algorithms Course
-- Machine Learning courses
-
-#### **Research Assistant** - NLPIC - *(Dec 2021 - Oct 2023)*
-- Studying Information Retrieval and Question Answering systems
+### **🔹 Data Scientist | Metodata** *(Jan 2022 – Sep 2023)*  
+📊 Led social media analysis projects  
+🧠 Developed ML & NLP pipelines for diverse projects  
 
 ---
 
-## **Skills**
-- Deploying ML models
-- Working with NLP algorithms and fine-tuning LLMs
-- Implementing Agents and working with advanced RAG techniques
-- Optimizing and engineering prompts for LLMs
-- Performing Time Series Analysis and forecasting
-- Conducting Statistical Analysis and Hypothesis Testing
-- Applying Network Analysis and Community Detection methods
-- Analyzing social media influence
+## **🎓 Academic Experience**  
 
-### **Experienced** 
-- Python (Pandas, TensorFlow، PyTorch, Scikit-learn, Matplotlib, Seaborn, NumPy)
-- LangChain, LangGraph, LangSmith
-- SQL
-- Apache Airflow
-- Redash
-- Gephi
-- Git
-- Jira
+### **🔹 Research Assistant | Sharif University of Technology** *(Apr 2024 – Present)*  
+🛠️ Fine-tuning Large Language Models (LLMs) 
+🎙️ Improving Automated Speech Recognition (ASR) systems  
 
-### **Familiar**
-- Java
-- R
-- LLamaIndex
-- Docker
-- Spark
-- Linux
-- Tableau
+### **🔹 Teaching Assistant | Amirkabir University of Technology** *(Oct 2022 - Jan 2023)*  
+📚 Assisted in Data Structures & Algorithms and Machine Learning courses  
+
+### **🔹 Research Assistant | NLPIC** *(Dec 2021 - Oct 2023)*  
+🔍 Studied Information Retrieval & Question Answering Systems
 
 ---
 
-## **Languages**
-- **Persian:** Native
-- **English:** Professional working
+## **🛠 Skills & Tools**  
+
+### **🌟 Core Skills**  
+✅ ML Model Deployment | ✅ NLP & LLM Fine-tuning | ✅ AI Agent Development  
+✅ Advanced RAG Techniques | ✅ Prompt Engineering | ✅ Time Series Forecasting  
+✅ Statistical Analysis & Hypothesis Testing | ✅ Social Media Influence Analysis  
+
+### **💻 Technical Stack**  
+🔹 **Programming:** Python (Pandas, TensorFlow, PyTorch, Scikit-learn, NumPy)  
+🔹 **LLMs:** LangChain, LangGraph, LangSmith  
+🔹 **Tools:** SQL, Redash, Apache Airflow, Gephi  
+🔹 **Version Control & Workflow:** Git, Jira 
+
+### **📌 Familiar With**  
+Java | R | LLamaIndex | Docker | Spark | Linux | Tableau  
+
+---
+
+## **🌍 Languages**  
+🗣️ **Persian:** Native | 🗣️ **English:** Professional Working Proficiency  
+
+---
