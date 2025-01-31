@@ -9,8 +9,8 @@ comments: false
 ---
 #### Hello, everyone. My name is Fatemeh Rajabi, and this is my Website! I've included detailed stories and my journey for every field trip. For the best user experience, please visit my site on your PC.  
 
-🚀 **AI Researcher** | **Data Scientist** | **NLP Specialist**  
-🔗 **[Portfolio Website](https://rjbi-ftmh.github.io/)** | 📩 **Email: rjbi.ftmh@gmail.com**
+🚀 **AI Researcher**|**Data Scientist**|**NLP Specialist**  
+🔗 **[Portfolio Website](https://rjbi-ftmh.github.io/)**|📩 **Email: rjbi.ftmh@gmail.com**
 
 ---
 
