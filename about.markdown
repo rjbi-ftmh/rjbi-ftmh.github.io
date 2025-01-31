@@ -7,7 +7,8 @@ comments: false
 ---
 
 ---
-Hello everyone; My name is Fatemeh Rajabi and this is my Website! I've included the detailed stories and my journey for every field trip. For the best user experience, please visit my site on your PC.  
+#### Hello, everyone. My name is Fatemeh Rajabi, and this is my Website! I've included detailed stories and my journey for every field trip. For the best user experience, please visit my site on your PC.  
+
 🚀 **AI Researcher**| **Data Scientist** | **NLP Specialist**  
 🔗 **[Portfolio Website](https://rjbi-ftmh.github.io/)** | 📩 **Email: rjbi.ftmh@gmail.com**
 
@@ -46,8 +47,7 @@ Developed ML & NLP pipelines for diverse projects
 ## **🎓 Academic Experience**  
 
 ### **Research Assistant | Sharif University of Technology** *(Apr 2024 – Present)*  
-Fine-tuning Language Models  
-Improving Automated Speech Recognition (ASR) systems by LLMs
+Fine-tuning Language Models and improving Automated Speech Recognition (ASR) systems by LLMs
 
 ### **Teaching Assistant | Amirkabir University of Technology** *(Oct 2022 - Jan 2023)*  
 Assisted in Data Structures & Algorithms and Machine Learning courses  
@@ -60,15 +60,20 @@ Studied Information Retrieval & Question Answering Systems
 ## **🛠 Skills & Tools**  
 
 ### **🌟 Core Skills**  
-ML Model Deployment | NLP & LLMs | AI Agent Development  
-Advanced RAG Techniques | Prompt Engineering | Time Series Forecasting  
-Statistical Analysis & Hypothesis Testing | Social Media Influence Analysis  
+ML Model Deployment  
+NLP & LLMs  
+AI Agent Development  
+Advanced RAG Techniques  
+Prompt Engineering  
+Time Series Forecasting  
+Statistical Analysis & Hypothesis Testing  
+Social Media Influence Analysis  
 
 ### **💻 Technical Stack**  
-**Programming:** Python (Pandas, TensorFlow, PyTorch, Scikit-learn, NumPy), SQL  
-**LLMs:** LangChain, LangGraph, LangSmith  
-**Tools:** Apache Airflow, Redash, Gephi, DBeaver  
-**Version Control & Workflow:** Git, Jira  
+Programming: Python (Pandas, TensorFlow, PyTorch, Scikit-learn, NumPy), SQL  
+LLMs: LangChain, LangGraph, LangSmith  
+Tools: Apache Airflow, Redash, Gephi, DBeaver  
+Version Control & Workflow: Git, Jira  
 
 ### **📌 Familiar With**  
 Java | R | LLamaIndex | Docker | Spark | Linux | Tableau  
