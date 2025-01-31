@@ -69,10 +69,22 @@ I am a Computer Science graduate specializing in Artificial Intelligence from Am
 
 ### **Experienced** 
 - Python (Pandas, TensorFlow، PyTorch, Scikit-learn, Matplotlib, Seaborn, NumPy)
-- LangChain, LangGraph, SQL, Git, Airflow, Redash, Gephi, Scrum, Jira <br>
+- LangChain, LangGraph, LangSmith
+- SQL
+- Apache Airflow
+- Redash
+- Gephi
+- Git
+- Jira
 
 ### **Familiar**
-- Java, R, LLamaIndex, Docker, Spark, Linux, Tableau
+- Java
+- R
+- LLamaIndex
+- Docker
+- Spark
+- Linux
+- Tableau
 
 ---
 
