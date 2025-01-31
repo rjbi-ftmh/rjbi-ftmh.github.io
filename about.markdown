@@ -7,14 +7,14 @@ comments: false
 ---
 
 ---
-### **Fatemeh Rajabi**
+### **Hello everyone; My name is Fatemeh Rajabi and this is my Website! I've included the detailed stories and my journey for every field trip. For the best user experience, please visit my site on your PC.**  
 🚀 **AI Researcher**| **Data Scientist** | **NLP Specialist**  
 🔗 **[Portfolio Website](https://rjbi-ftmh.github.io/)** | 📩 **Email: rjbi.ftmh@gmail.com**
 
 ---
 
 ## **🔹 Summary**  
-🎓 **M.Sc. in Computer Science (AI) | Amirkabir University of Technology**  
+🎓 **M.Sc.** in Computer Science (AI) | Amirkabir University of Technology, Tehran, Iran  
 💡 **Expertise:** Machine Learning, NLP, Generative AI, Speech Recognition, Computational Social Science  
 🔬 **Experience:** Data Science, Research & Teaching Assistant, AI-driven Projects  
 🔥 **Passionate about** cutting-edge AI applications, generative AI, large-scale data analysis & predictive modeling
