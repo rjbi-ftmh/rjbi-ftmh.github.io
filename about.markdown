@@ -39,7 +39,7 @@ Implementing an automated ticket answering system with LLMs & RAG
 Automating abuse management using prompt engineering  
 
 ### **Data Scientist | Metodata** *(Jan 2022 – Sep 2023)*  
-Led social media analysis projects  
+Working on social media analysis projects  
 Developed ML & NLP pipelines for diverse projects  
 
 ---
