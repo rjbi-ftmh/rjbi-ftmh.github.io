@@ -40,7 +40,7 @@ Automating abuse management using prompt engineering
 
 ### **Data Scientist | Metodata** *(Jan 2022 – Sep 2023)*  
 Working on social media analysis projects  
-Developed ML & NLP pipelines for diverse projects  
+Developing ML & NLP pipelines for diverse projects  
 
 ---
 
@@ -50,10 +50,11 @@ Developed ML & NLP pipelines for diverse projects
 Fine-tuning Language Models and improving Automated Speech Recognition (ASR) systems by LLMs
 
 ### **Teaching Assistant | Amirkabir University of Technology** *(Oct 2022 - Jan 2023)*  
-Assisted in Data Structures & Algorithms and Machine Learning courses  
+Data Structures & Algorithms
+Machine Learning  
 
 ### **Research Assistant | NLPIC** *(Dec 2021 - Oct 2023)*  
-Studied Information Retrieval & Question Answering Systems
+Studying Information Retrieval & Question Answering Systems
 
 ---
 
