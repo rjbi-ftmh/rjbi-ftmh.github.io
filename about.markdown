@@ -7,8 +7,10 @@ comments: false
 ---
 
 ---
-#### **Hello, everyone. My name is Fatemeh Rajabi.**  
-**My website includes detailed stories of my journey on every field trip.**  
+
+#### **Hello, everyone**
+**My name is Fatemeh Rajabi and here is my stories of my journey on every field trip.**  
+**Welcome to My Website**
 
 ---
 
