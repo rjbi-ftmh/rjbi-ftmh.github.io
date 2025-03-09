@@ -14,7 +14,9 @@ comments: false
 
 ## **🔹 Summary**  
 **M.Sc.** in Computer Science (AI), Amirkabir University of Technology, Tehran, Iran  
+
 **Experienced in:** Machine Learning, Data Science, Natural Language Processing, Automatic Speech Recognition, Large Language Models, Research & Teaching Assistant  
+
 **Passionate about** Cutting-edge AI applications, Generative AI, Large-scale data analysis & Predictive modeling
 
 📩 **[Google Scholar](https://scholar.google.com/citations?user=zxTU4UwAAAAJ&hl=en)**
