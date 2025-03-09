@@ -15,7 +15,7 @@ comments: false
 ---
 
 ## **🔹 Summary**  
-Graduated in Computer Science (Artificial Intelligence), from Amirkabir University of Technology and have some experience as a Data Scientist, Research Assistant, and Teacher Assistant. Passionate about exploring new and diverse branches of Data Science and AI, especially Generative AI, LLMs.
+Graduated in Computer Science (Artificial Intelligence), from Amirkabir University of Technology, and have some experience as a Data Scientist, Research Assistant, and Teacher Assistant. Passionate about exploring new and diverse branches of data science and AI, especially generative AI and LLMs.
 
 📚 **[Google Scholar](https://scholar.google.com/citations?user=zxTU4UwAAAAJ&hl=en)**
 
