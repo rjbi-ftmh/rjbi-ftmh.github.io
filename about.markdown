@@ -13,13 +13,9 @@ comments: false
 ---
 
 ## **🔹 Summary**  
-**M.Sc.** in Computer Science (AI), Amirkabir University of Technology, Tehran, Iran  
+Graduated in Computer Science (Artificial Intelligence), from Amirkabir University of Technology and have some experience as a Data Scientist, Research Assistant, and Teacher Assistant. Passionate about exploring new and diverse branches of Data Science and AI, especially Generative AI, LLMs.
 
-**Experienced in:** Machine Learning, Data Science, Natural Language Processing, Automatic Speech Recognition, Large Language Models, Research & Teaching Assistant  
-
-**Passionate about** Cutting-edge AI applications, Generative AI, Large-scale data analysis & Predictive modeling
-
-📩 **[Google Scholar](https://scholar.google.com/citations?user=zxTU4UwAAAAJ&hl=en)**
+📚 **[Google Scholar](https://scholar.google.com/citations?user=zxTU4UwAAAAJ&hl=en)**
 
 ---
 
