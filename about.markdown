@@ -7,18 +7,16 @@ comments: false
 ---
 
 ---
-#### **Hello, everyone. My name is Fatemeh Rajabi, and this is my Website! I've included detailed stories and my journey for every field trip.**  
+#### **Hello, everyone. My name is Fatemeh Rajabi. My website includes detailed stories of my journey on every field trip.**  
 
-🚀 **AI Researcher**, **Data Scientist**, **NLP Specialist**  
-📩 **Email: rjbi.ftmh@gmail.com**
+📩 **[Email](mailto:rjbi.ftmh@gmail.com)**,**[Google Scholar](https://scholar.google.com/citations?user=zxTU4UwAAAAJ&hl=en)**
 
 ---
 
 ## **🔹 Summary**  
 **M.Sc.** in Computer Science (AI), Amirkabir University of Technology, Tehran, Iran  
-**Expertise:** Machine Learning, NLP, Generative AI, Speech Recognition, Computational Social Science  
-**Experience:** Data Science, Research & Teaching Assistant, AI-driven Projects  
-**Passionate about** cutting-edge AI applications, generative AI, large-scale data analysis & predictive modeling
+**Experienced in:** Machine Learning, Data Science, Natural Language Processing, Automatic Speech Recognition, Large Language Models, Research & Teaching Assistant  
+**Passionate about** Cutting-edge AI applications, Generative AI, Large-scale data analysis & Predictive modeling
 
 ---
 
@@ -36,7 +34,7 @@ comments: false
 
 ### **Data Scientist | ParsPack** *(May 2024 – Present)*  
 Implementing an automated ticket answering system with LLMs & RAG  
-Automating abuse management using prompt engineering  
+Automating ticket sending management using LLMs
 
 ### **Data Scientist | Metodata** *(Jan 2022 – Sep 2023)*  
 Working on social media analysis projects  
